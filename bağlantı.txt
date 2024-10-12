@@ -1,0 +1,2 @@
+
+VCC → 10K  NTC → A0 → 10K Direnç → GND
